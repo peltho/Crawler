@@ -1,12 +1,11 @@
-#### CasperJS Web crawler
+# CasperJS Web crawler
 
+### Installation
 
-## Installation
+`npm install phantomjs`
 
-'npm install phantomjs'
+`npm install casperjs`
 
-'npm install casperjs'
+### Configuration
 
-## Configuration
-
-Setup properties in config.json and launch the script with 'casperjs wimdu.js'
+Setup properties in config.json and launch the script with `casperjs wimdu.js`
