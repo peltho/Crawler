@@ -1,0 +1,14 @@
+{
+	"credentials": 
+	{
+		"login"    : "xoteliatest@yopmail.fr",
+		"password" : "xotelia",
+		"offer"	   : "FNOZP60U"
+	},
+	"offer":
+	{
+		"night"	   : 80,
+		"week"	   : 500,
+		"min"      : 5
+	}
+}
